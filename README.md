@@ -51,4 +51,3 @@ Feel free to fork this project, submit PRs, or suggest improvements!
 ---
 
 **Author:** [Azaan Ahmed](https://github.com/NomadBeetle) 🚀
-**LinkedIn** [Azaan Ahmed](www.linkedin.com/in/azaan-ahmed-a738b4332)
